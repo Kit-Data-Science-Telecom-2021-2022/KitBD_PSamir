@@ -8,6 +8,4 @@
 * string1.py
 * string2.py
 * wordcount.py  
-
-**A faire :**
 * mimic.py
