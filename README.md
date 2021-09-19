@@ -7,6 +7,7 @@
 * list2.py
 * string1.py
 * string2.py
-* wordcount.py
+* wordcount.py  
+
 **A faire :**
 * mimic.py
