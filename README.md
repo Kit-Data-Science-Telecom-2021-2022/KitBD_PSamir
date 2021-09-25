@@ -3,10 +3,5 @@
 ### Philéas Samir
 
 ### Séance 1 : exercices Google
-**Exercices terminés :**
-* list1.py
-* list2.py
-* string1.py
-* string2.py
-* wordcount.py  
-* mimic.py
+
+### Séance 2 : pandas, json et spacely
