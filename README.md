@@ -5,3 +5,5 @@
 ### Séance 1 : exercices Google
 
 ### Séance 2 : pandas, json et spacely
+
+### Séance 3 : data cleaning
