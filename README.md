@@ -7,3 +7,7 @@
 ### Séance 2 : pandas, json et spacely
 
 ### Séance 3 : data cleaning
+
+### Séance 4 : XML, web scraping, API
+
+### Séance 5 : more pandas
