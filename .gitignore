@@ -1,8 +1,9 @@
-*.csv
-*.txt
+TP*/*.csv
+TP*/*.txt
 *.pdf
 .ipynb_checkpoints
-*.html
-*.json
+TP*/*.html
+TP*/*.json
 *.zip
-*.xlsx
+TP*/*.xlsx
+#projet/data

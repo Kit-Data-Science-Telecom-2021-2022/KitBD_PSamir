@@ -11,3 +11,5 @@
 ### Séance 4 : XML, web scraping, API
 
 ### Séance 5 : more pandas
+
+### Projet : Vendée globe
